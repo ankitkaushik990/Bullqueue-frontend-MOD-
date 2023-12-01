@@ -34,6 +34,7 @@ body {
     border: 1px solid black;
     margin-bottom: 5px;
     background-color: rgb(218, 202, 202);
+    outline: none;
 }
 
 .signup-container input:hover {
